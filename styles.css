@@ -17,11 +17,3 @@
     background-size: cover;
 }
 
-#youtube-player {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    width: 640px !important;
-    height: 360px !important;
-    position: relative !important; /* Ensure it has a layout context */
-}
